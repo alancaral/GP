@@ -1,0 +1,45 @@
+09:34:32  ??????????
+09:34:32  Refresh, start scan printers
+09:34:57  scan end, find [1] printers.
+09:34:58  Create Line[Line13]
+09:34:58  Line[Line13] connected.
+09:34:58  Line[Line13] Refresh Message list.
+09:35:05  
+----------------------------------
+09:37:03  -------------Close-----------
+09:37:03  ??????
+09:37:03  -----------------------------
+09:37:07  ??????????
+09:37:08  Refresh, start scan printers
+09:37:33  scan end, find [1] printers.
+09:37:33  Create Line[Line13]
+09:37:34  Line[Line13] connected.
+09:37:34  Line[Line13] Refresh Message list.
+09:37:41  
+----------------------------------
+09:41:55  ??????????
+09:41:56  Refresh, start scan printers
+09:42:21  scan end, find [1] printers.
+09:42:21  Create Line[Line13]
+09:42:21  Line[Line13] connected.
+09:42:21  Line[Line13] Refresh Message list.
+09:42:29  
+----------------------------------
+09:43:18  ????????[192.168.0.206:1283]
+09:44:01  Line[Line13] Send Strings[123456]
+09:44:28  Line[Line13] disconnected.
+09:45:14  Line[Line13] connected.
+09:45:14  Line[Line13] Refresh Message list.
+09:45:29  Line[Line13] Send Strings[123456]
+09:47:25  Line[Line13] Send Strings[123456Send]
+09:47:49  Line[Line13] Send Strings[123456]
+09:49:55  Line[Line13] disconnected.
+09:51:08  Line[Line13] connected.
+09:51:08  Line[Line13] Refresh Message list.
+09:51:29  Line[Line13] Send Strings[12TTT6]
+09:51:32  Line[Line13] Send Strings[12TTT6]
+09:51:32  Line[Line13] Send Strings[12TTT6]
+09:51:33  Line[Line13] Send Strings[12TTT6]
+09:51:34  Line[Line13] Send Strings[12TTT6]
+09:51:34  Line[Line13] Send Strings[12TTT6]
+09:52:28  Line[Line13] disconnected.

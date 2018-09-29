@@ -1,0 +1,185 @@
+11:36:00  ??????????
+11:36:01  Refresh, start scan printers
+11:36:16  scan end, find [0] printers.
+11:36:16  
+----------------------------------
+11:37:04  Refresh, start scan printers
+11:37:30  scan end, find [1] printers.
+11:38:55  Create Line[Line11]
+11:38:57  Add [192.168.0.243-260208] to [Line11]
+11:39:03  Line[Line11] connected.
+11:39:03  Line[Line11] Refresh Message list.
+11:41:11  ??????????
+11:41:11  Refresh, start scan printers
+11:41:36  scan end, find [1] printers.
+11:41:36  
+----------------------------------
+11:41:42  Create Line[Line13]
+11:41:46  Add [192.168.0.243-260208] to [Line13]
+11:41:54  Line[Line13] connected.
+11:41:54  Line[Line13] Refresh Message list.
+11:44:32  ??????
+11:44:32  -----------------------------
+11:44:32  -------------Close-----------
+02:30:25  ??????????
+02:30:25  Refresh, start scan printers
+02:30:56  ??????????
+02:30:56  Refresh, start scan printers
+02:31:11  scan end, find [0] printers.
+02:31:11  Create Line[Line13]
+02:31:15  Line[Line13] connected.
+02:31:15  Line[Line13] Refresh Message list.
+02:31:22  
+----------------------------------
+02:31:33  -------------Close-----------
+02:31:33  ??????
+02:31:33  -----------------------------
+02:31:38  ??????????
+02:31:38  Refresh, start scan printers
+02:32:04  scan end, find [1] printers.
+02:32:04  Create Line[Line13]
+02:32:04  
+----------------------------------
+02:32:13  -------------Close-----------
+02:32:13  ??????
+02:32:13  -----------------------------
+02:32:14  ??????????
+02:32:14  Refresh, start scan printers
+02:32:40  scan end, find [1] printers.
+02:32:40  Create Line[Line13]
+02:34:21  ??????
+02:34:21  -----------------------------
+02:34:22  -------------Close-----------
+05:09:54  ??????????
+05:09:54  Refresh, start scan printers
+05:10:09  scan end, find [0] printers.
+05:10:10  Create Line[Line13]
+05:11:45  ??????????
+05:11:45  Refresh, start scan printers
+05:12:00  scan end, find [0] printers.
+05:12:00  Create Line[Line13]
+05:33:20  Line[Line13] connect error!
+05:33:20  
+----------------------------------
+05:36:31  Line[Line13] connect error!
+05:42:44  Line[Line13] connected.
+05:42:44  Line[Line13] Refresh Message list.
+05:45:25  ????????[192.168.0.206:22924]
+05:46:25  Line[Line13] disconnected [Client disconnected].
+05:46:38  Line[Line13] Reconnect OK!
+05:47:50  Line[Line13] disconnected.
+05:48:16  Line[Line13] connected.
+05:48:16  Line[Line13] Refresh Message list.
+05:49:20  Line[Line13] Send Strings[9987AA]
+05:49:31  Line[Line13] Send Strings[9987AA]
+05:49:32  Line[Line13] Send Strings[9987AA]
+05:49:33  Line[Line13] Send Strings[9987AA]
+05:49:34  Line[Line13] Send Strings[9987AA]
+05:49:35  Line[Line13] Send Strings[9987AA]
+05:49:36  Line[Line13] Send Strings[9987AA]
+05:49:37  Line[Line13] Send Strings[9987AA]
+05:49:38  Line[Line13] Send Strings[9987AA]
+05:49:39  Line[Line13] Send Strings[9987AA]
+05:49:40  Line[Line13] Send Strings[9987AA]
+05:49:41  Line[Line13] Send Strings[9987AA]
+05:49:42  Line[Line13] Send Strings[9987AA]
+05:49:43  Line[Line13] Send Strings[9987AA]
+05:49:44  Line[Line13] Send Strings[9987AA]
+05:49:45  Line[Line13] Send Strings[9987AA]
+05:49:46  Line[Line13] Send Strings[9987AA]
+05:49:47  Line[Line13] Send Strings[9987AA]
+05:49:48  Line[Line13] Send Strings[9987AA]
+05:49:49  Line[Line13] Send Strings[9987AA]
+05:49:50  Line[Line13] Send Strings[9987AA]
+05:50:14  Line[Line13] Send Strings[9987AA]
+05:50:20  Line[Line13] Send Strings[9987AA]
+05:50:22  Line[Line13] Send Strings[9987AA]
+05:50:23  Line[Line13] Send Strings[9987AA]
+05:50:24  Line[Line13] Send Strings[9987AA]
+05:50:25  Line[Line13] Send Strings[9987AA]
+05:51:04  Line[Line13] Send Strings[9987AA]
+05:52:08  Line[Line13] Send Strings[9987AA]
+05:52:30  Line[Line13] disconnected [Client disconnected].
+05:52:53  Line[Line13] Reconnect failed!
+05:53:14  Line[Line13] Reconnect failed!
+05:53:35  Line[Line13] Reconnect failed!
+05:53:56  Line[Line13] Reconnect failed!
+05:54:17  Line[Line13] Reconnect failed!
+05:54:38  Line[Line13] Reconnect failed!
+05:54:59  Line[Line13] Reconnect failed!
+05:55:21  Line[Line13] Reconnect failed!
+05:55:42  Line[Line13] Reconnect failed!
+05:56:03  Line[Line13] Reconnect failed!
+05:56:24  Line[Line13] Reconnect failed!
+05:56:45  Line[Line13] Reconnect failed!
+05:57:06  Line[Line13] Reconnect failed!
+05:57:15  ??????????
+05:57:16  Refresh, start scan printers
+05:57:31  scan end, find [0] printers.
+05:57:31  Create Line[Line13]
+06:03:43  ??????????
+06:03:43  Refresh, start scan printers
+06:03:58  scan end, find [0] printers.
+06:03:58  Create Line[Line13]
+06:04:45  Line[Line13] connect error!
+06:04:45  
+----------------------------------
+06:05:31  Line[Line13] connect error!
+06:05:32  -------------Close-----------
+06:05:32  ??????
+06:05:32  -----------------------------
+06:05:36  ??????????
+06:05:36  Refresh, start scan printers
+06:05:51  scan end, find [0] printers.
+06:05:52  Create Line[Line13]
+06:09:32  Line[Line13] connect error!
+06:09:32  
+----------------------------------
+06:20:31  Line[Line13] connected.
+06:20:31  Line[Line13] Refresh Message list.
+06:22:46  ????????[192.168.0.206:37080]
+06:23:44  Line[Line13] Send Strings[8899AA]
+06:24:11  Line[Line13] disconnected.
+06:24:23  Line[Line13] connected.
+06:24:23  Line[Line13] Refresh Message list.
+06:25:06  Line[Line13] Send Strings[8899AA]
+06:25:07  Line[Line13] Send Strings[8899AA]
+06:25:08  Line[Line13] Send Strings[8899AA]
+06:25:09  Line[Line13] Send Strings[8899AA]
+06:25:10  Line[Line13] Send Strings[8899AA]
+06:25:39  Line[Line13] disconnected [Client disconnected].
+06:25:42  Line[Line13] Send Strings[8899AASend]
+06:26:41  Line[Line13] Send Strings[8899AASend]
+06:26:44  Line[Line13] Reconnect failed!
+06:28:23  Line[Line13] Reconnect failed!
+06:28:28  Line[Line13] Send Strings[8899AASend]
+06:28:35  Line[Line13] Send Strings[8899AASend]
+06:28:36  Line[Line13] Send Strings[8899AA]
+06:28:37  Line[Line13] Send Strings[8899AA]
+06:28:38  Line[Line13] Send Strings[8899AA]
+06:28:49  Line[Line13] Reconnect failed!
+06:29:10  Line[Line13] Reconnect failed!
+06:29:31  Line[Line13] Reconnect failed!
+06:29:51  Line[Line13] Send Strings[8899AA]
+06:30:35  Line[Line13] Reconnect failed!
+06:34:47  ??????????
+06:34:47  Refresh, start scan printers
+06:35:03  scan end, find [0] printers.
+06:35:03  Create Line[Line13]
+06:35:47  Line[Line13] connect error!
+06:35:47  
+----------------------------------
+06:36:17  Line[Line13] connect error!
+06:36:17  Line[Line13] connected.
+06:36:17  Line[Line13] Refresh Message list.
+10:05:28  ??????????
+10:05:28  Refresh, start scan printers
+10:05:54  scan end, find [1] printers.
+10:05:54  Create Line[Line13]
+10:05:54  Line[Line13] connected.
+10:05:54  Line[Line13] Refresh Message list.
+10:06:02  
+----------------------------------
+10:11:20  -------------Close-----------
+10:11:20  ??????
+10:11:20  -----------------------------
